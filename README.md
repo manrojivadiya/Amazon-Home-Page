@@ -1,2 +1,2 @@
 # Amazon home page 
-amazon home page using HTML &amp; CSS.
+amazon home page design using HTML &amp; CSS.
